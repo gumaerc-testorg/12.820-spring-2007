@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 title: Lecture 18
 uid: 40c35bc7-26d9-8df2-000c-5dce3115883c

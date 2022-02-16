@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bca208ed4d97f15168aea6c64010ceb_Critical.png
+file: /media/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bca208ed4d97f15168aea6c64010ceb_Critical.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: Critical.png
 uid: 0bca208e-d4d9-7f15-168a-ea6c64010ceb

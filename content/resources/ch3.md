@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes about a statistical description of turbulence, probability
   density functions and moments, joint probability density functions, ergodicity and
   statistical, central Limit theorem and intermittency.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/ad6d3652751dae819f9ae2420d2d1295_ch3.pdf
+file: /media/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/ad6d3652751dae819f9ae2420d2d1295_ch3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch3.pdf
 uid: ad6d3652-751d-ae81-9f9a-e2420d2d1295

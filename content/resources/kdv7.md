@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Graphic representation of concepts discussed in the lecture notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/28a7d86d93dd22f688e566f76224eca4_kdv7.gif
+file: /media/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/28a7d86d93dd22f688e566f76224eca4_kdv7.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: kdv7.gif
 uid: 28a7d86d-93dd-22f6-88e5-66f76224eca4
