@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 resourcetype: Image
 title: kdv7.gif
 uid: 28a7d86d-93dd-22f6-88e5-66f76224eca4
