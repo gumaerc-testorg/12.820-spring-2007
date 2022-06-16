@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  two dimensional turbulence.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Lecture 9
 uid: 960878f4-2d95-9815-8058-139d123546b9
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch6)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link a2040c9b-9499-583f-bfe1-7e48c230d31f "PDF" %}}).
 
 ### {{< anchor "2a" >}}{{< /anchor >}}Page 2: 2D
 

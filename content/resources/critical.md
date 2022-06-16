@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bca208ed4d97f15168aea6c64010ceb_Critical.png
+file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bca208ed4d97f15168aea6c64010ceb_Critical.png
 file_type: image/png
 image_metadata:
   caption: ''

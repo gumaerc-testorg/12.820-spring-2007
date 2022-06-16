@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  boundary layer turbulence.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Lecture 18
 uid: 40c35bc7-26d9-8df2-000c-5dce3115883c
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch20)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link 8cf1bbef-7db9-1dc3-d802-fc581924e0ac "PDF" %}}).
 
 ### {{< anchor "1a" >}}{{< /anchor >}}Page 1: Stommel 1 Gyre
 

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides study materials for the course, including a link
+  to an article on two-dimensional flow of foam around a circular obstacle, and a
+  film on turbulence.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

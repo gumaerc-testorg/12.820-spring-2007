@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  eddy diffusivity.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Lecture 13
 uid: 000a31fb-7b67-d9ea-a55e-7f3982b017e4
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch13)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link 6fe7de96-69a1-4d09-782d-883afd0ccd4c "PDF" %}}).
 
 ### Page 2: QGPV and Fluxes
 

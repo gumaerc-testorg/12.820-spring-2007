@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  particle dispersion.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Lecture 16
 uid: 81513ba3-5173-efe5-e0b6-830747a7ad49
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch16)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link beea7efe-1240-5339-ad2d-6739159965c2 "PDF" %}}).
 
 ### {{< anchor "1a" >}}{{< /anchor >}}Page 1: Random flight
 
