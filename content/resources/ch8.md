@@ -6,6 +6,7 @@ file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/3f76db7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch8.pdf
 uid: 3f76db7e-b4a4-16e8-4c6e-c579e530a411
 ---
 This file is a resource which contains the information about The Mean-Field approximation baroclinic instability.
-

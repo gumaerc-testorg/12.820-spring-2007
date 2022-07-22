@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: kdv3.gif
 uid: 95be195d-eac3-5ed5-948d-18cd0556ed5d
 ---
 Graphic representation of concepts discussed in the lecture notes.
-

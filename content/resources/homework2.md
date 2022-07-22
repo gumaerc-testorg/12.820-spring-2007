@@ -5,6 +5,7 @@ file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bb4d59
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework2.pdf
 uid: 0bb4d590-8a68-945a-e3c8-71b08e2a27ce
 ---
 Homework assignment.
-

@@ -5,6 +5,7 @@ file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/98f6717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch7.pdf
 uid: 98f6717e-14fc-4a9e-712b-d2e289f25624
 ---
 Lecture notes about QG turbulence and waves.
-

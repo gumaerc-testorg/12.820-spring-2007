@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: kdvpl1.jpg
 uid: 236dc2af-e14b-20ef-1cc2-cb6fd89b22f9
 ---
 Graphic representation of concepts discussed in the lecture notes.
-

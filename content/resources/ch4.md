@@ -5,6 +5,7 @@ file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/dc4dec9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch4.pdf
 uid: dc4dec95-6232-ae15-7118-64eb7cb32c40
 ---
 Lecture notes about convection.
-
