@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  surface quasi geostrophy.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 title: Lecture 12
 uid: e62c0074-c818-0132-7d4a-a73140243a0b
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch12)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link 9320413d-ea4b-9554-8e15-47e6106b1f20 "PDF" %}}).
 
 ### {{< anchor "1a" >}}{{< /anchor >}}Page 1: Atmospheric and Oceanic Stratification
 

@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  generation of internal gravity waves by flow over topography.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 title: Lecture 21
 uid: 30750150-1f55-1bc7-fb94-2aecdc6e46f4
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch22)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link e8ca2f79-9915-6c96-2a2f-085cc3003573 "PDF" %}}).
 
 ### Page 1: Internal Gravity Waves
 

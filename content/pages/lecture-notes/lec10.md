@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  particle dispersion.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 title: Lecture 10
 uid: af88e57e-1bb9-7cca-40b8-f8e9141d05d3
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch7)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link 98f6717e-14fc-4a9e-712b-d2e289f25624 "PDF" %}}).
 
 ### {{< anchor "4a" >}}{{< /anchor >}}Page 4: Means
 

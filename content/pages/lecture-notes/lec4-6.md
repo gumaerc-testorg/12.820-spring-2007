@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides lecture notes and graphical representations on
+  convection.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 title: Lectures 4-6
 uid: 75b326c8-5c07-2a61-e48f-acad506ece36
 ---
 
-The following demonstrations are graphic representations of concepts discussed in the lecture notes ([PDF]({{< baseurl >}}/resources/ch4)).
+The following demonstrations are graphic representations of concepts discussed in the lecture notes ({{% resource_link dc4dec95-6232-ae15-7118-64eb7cb32c40 "PDF" %}}).
 
 ### {{< anchor "5a" >}}{{< /anchor >}}Page 5: planforms
 
