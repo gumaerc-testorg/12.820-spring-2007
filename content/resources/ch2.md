@@ -4,6 +4,7 @@ description: Lecture notes about transition to turbulence, linear solutions of t
   logistic map, chaos and sensitivity to initial conditions,  routes to chaos, and
   a statistical description of chaos.
 file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/f1e8a69cb4d94121f4b23e9f5dcb84bb_ch2.pdf
+file_size: 214499
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
