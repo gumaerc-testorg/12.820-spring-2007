@@ -4,6 +4,7 @@ description: Lecture notes about isotropic homogeneous 3D turbulence, kinetic en
   and vorticity budgets in 3D turbulence, characteristic scales of turbulence, and
   3D homogeneous isotropic turbulence in geophysical flows.
 file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/cab8b37862f7dd103a14cf10bbebd0c0_ch5.pdf
+file_size: 284549
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
