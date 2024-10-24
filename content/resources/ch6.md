@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about 2-D turbulence, 2D simulations, and vortex dynamics.
-file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/a2040c9b9499583fbfe17e48c230d31f_ch6.pdf
+file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/a2040c9b9499583fbfe17e48c230d31f_ch6.pdf
 file_size: 270513
 file_type: application/pdf
 learning_resource_types:
