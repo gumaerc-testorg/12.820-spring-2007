@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about convection.
-file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/dc4dec956232ae15711864eb7cb32c40_ch4.pdf
+file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/dc4dec956232ae15711864eb7cb32c40_ch4.pdf
 file_size: 769248
 file_type: application/pdf
 learning_resource_types:
