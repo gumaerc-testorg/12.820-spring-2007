@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Graphic representation of concepts discussed in the lecture notes.
-file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/62fc0d9827d72e0427a4cb075edf0a89_kdv01.gif
+file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/62fc0d9827d72e0427a4cb075edf0a89_kdv01.gif
 file_size: 688102
 file_type: image/gif
 image_metadata:
