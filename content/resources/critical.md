@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bca208ed4d97f15168aea6c64010ceb_Critical.png
+file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/0bca208ed4d97f15168aea6c64010ceb_Critical.png
 file_size: 22243
 file_type: image/png
 image_metadata:
