@@ -16,7 +16,7 @@ The following demonstrations are graphic representations of concepts discussed i
 
 ### Page 1: Internal Gravity Waves
 
-*   [Brazil basin](http://www.sciencemag.org/cgi/content/full/276/5309/93/F2)
+*   {{% resource_link "af9a9f30-57ff-4a6e-b153-b8713b0ce85a" "Brazil basin" %}}
 
 ### Page 2: Free Gravity Wave Properties
 
@@ -40,7 +40,7 @@ The following demonstrations are graphic representations of concepts discussed i
 *   Uk/N=0.8 ([PNG](/ans7870/12/12.820/s07/lecturenotes/demos/igwtop7.png))
 *   Uk/N=0.7 ([PNG](/ans7870/12/12.820/s07/lecturenotes/demos/igwtop8.png))
 
-### [Froude Number](http://en.wikipedia.org/wiki/Froude_number)
+### {{% resource_link "a03a9cec-adca-47ee-a74a-4e390f6fa1b2" "Froude Number" %}}
 
 ### Convective Instability
 
