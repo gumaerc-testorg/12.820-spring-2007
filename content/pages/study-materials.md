@@ -9,4 +9,4 @@ title: Study Materials
 uid: f2cc0af1-3e6f-25dc-d84d-d8e44aeeed92
 ---
 
-[Two-dimensional Flow of Foam around a Circular Obstacle: Local Measurements of Elasticity, Plasticity and Flow](http://dx.doi.org/10.1017/S0022112007006830)
+{{% resource_link "7333ad2f-091d-446a-9360-7b5f4b63c9b8" "Two-dimensional Flow of Foam around a Circular Obstacle: Local Measurements of Elasticity, Plasticity and Flow" %}}
