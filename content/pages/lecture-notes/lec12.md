@@ -16,7 +16,7 @@ The following demonstrations are graphic representations of concepts discussed i
 
 ### {{< anchor "1a" >}}{{< /anchor >}}Page 1: Atmospheric and Oceanic Stratification
 
-*   Density structure of the ocean ([JPG](http://www-pord.ucsd.edu/whp_atlas/pacific/p16/sections/printatlas/P16_SIGMA_final.jpg))
+*   Density structure of the ocean ({{% resource_link "7a4fda84-ef34-4611-9f89-0dcab340673b" "JPG" %}})
 
 ### {{< anchor "2a" >}}{{< /anchor >}}Page 2: SQG Turbulence
 
